@@ -1,6 +1,6 @@
 # The Great Courses of the Internet
 
-[Não entende inglês? Clique aqui para ver indicações em Português!](https://github.com/rochabianca/the-great-courses-of-the-Internet/README_pt-br.md)
+[Não entende inglês? Clique aqui para ver indicações em Português!](https://github.com/rochabianca/the-great-courses-of-the-Internet/blob/master/README_pt-br.md)
 
 The Internet is full of great courses, but the internet is also full of courses. This repository is a attempt to help you to find the great courses of the internet. Enjoy and if you know any great course, please, contribute!
 

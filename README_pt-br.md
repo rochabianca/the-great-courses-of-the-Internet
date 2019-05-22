@@ -1,6 +1,6 @@
 # Os Grandes Cursos dessa Internet
 
-[manja de inglês? Aqui tem as indicações para cursos nessa lingua](https://github.com/rochabianca/the-great-courses-of-the-Internet/README.MD)
+[manja de inglês? Aqui tem as indicações para cursos nessa lingua](https://github.com/rochabianca/the-great-courses-of-the-Internet/blob/master/README.md)
 
 A internet é cheia de grandes cursos, porém a Internet também é cheia de cursos. Por isso este repositório foi criado, para ajudar você, jovem gafanhoto, a encontrar os grandes cursos dessa Internet. E se você sabe de algum curso muito bom e quer ele aqui, não se acanhe, contribua!
 
@@ -8,9 +8,9 @@ Para ajudar na sua procura, estou colocando junto com as indicações, tags como
 
 ### Summary
 
-- [Free](https://github.com/rochabianca/TheGreatCoursesOfTheInternet/README_pt-br.md#Free)
-- [Udemy](https://github.com/rochabianca/TheGreatCoursesOfTheInternet/README_pt-br.md#Udemy)
-- [Outros](https://github.com/rochabianca/TheGreatCoursesOfTheInternet/README_pt-br.md#Outros)
+- [Free](https://github.com/rochabianca/the-great-courses-of-the-Internet/blob/master/README_pt-br.md#free)
+- [Udemy](https://github.com/rochabianca/the-great-courses-of-the-Internet/blob/master/README_pt-br.md#udemy)
+- [Outros](https://github.com/rochabianca/the-great-courses-of-the-Internet/blob/master/README_pt-br.md#outros)
 
 ## Free
 
