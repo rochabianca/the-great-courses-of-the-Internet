@@ -19,6 +19,8 @@ For easy search, I'm putting tags alongside with each indication, such like ``` 
 
 tags: ```any```, ```html```, ```javascript```, ```bootstrap```, ```react```, ```redux```, ```jquery```, ```sass```, ```projects```, ```npm```, ```node```, ```express```, ```mongoDB and Mongoose```, ```HelmetJS```, ``` Testing with Chai```
 
+
+
 ## Udemy
 
 
@@ -30,11 +32,15 @@ tags: ``` react```, ```redux```, ```frontend```
 
 
 
+
+
 #### [React Testing with Jest and Enzyme](https://www.udemy.com/react-testing-with-jest-and-enzyme/)
 **classes:** 100
 > This is one of the best courses that I made, the instructor pass exercises every lesson so you can really apply what you learn. Brings good concepts of testing too. The projects can seem a little too easy at first but It's enough for you learn and apply the concepts on real world projects later.
 
 tags: ```react```, ``` testing with jest```, ```frontend```, ```tdd```
+
+
 
 
 #### [Build Web Apps with Vue JS 2 & Firebase](https://www.udemy.com/build-web-apps-with-vuejs-firebase/)
