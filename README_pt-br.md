@@ -37,6 +37,6 @@ seja o primeiro a adicionar um curso aqui!
 
 #### [Origamid](https://www.origamid.com/)
 
-> Origamid é uma plataforma de cursos desenvolvida por um único cara. Há vários cursos sobre Web Design (bem focado no design) e ele sempre controí sites belíssimos e responsivos. Extremamente recomendado, especialmente se você está iniciando no Frontend
+> Origamid é uma plataforma de cursos desenvolvida por um único cara. Há vários cursos sobre Web Design (bem focado no design) e ele sempre constroí sites belíssimos e responsivos. Extremamente recomendado, especialmente se você está iniciando no Frontend.
 
 tags: `frontend`, `design`, `wordpress`, `javascript`, `vuejs`, `ux design`, `ui design`, `bootstrap`, `jQuery`, `tipografia`, `css`, `html`, `sass`
