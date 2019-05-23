@@ -37,6 +37,8 @@ tags: `css`, `css3`, `flexbox`, `layout module`, `flexible`, `responsive`, `fron
 
 #### [Grid Garden](https://cssgridgarden.com/)
 
+**classes:** 28
+
 > A game for learning CSS grid layout
 
 tags: `css`, `css3`, `layout module`, `grid-based`, `rows`, `columns`, `frontend`
