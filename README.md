@@ -19,6 +19,24 @@ For easy search, I'm putting tags alongside with each indication, such like `any
 
 tags: `any`, `html`, `javascript`, `bootstrap`, `react`, `redux`, `jquery`, `sass`, `projects`, `npm`, `node`, `express`, `mongoDB and Mongoose`, `HelmetJS`, `Testing with Chai`
 
+#### [Javascript30](https://javascript30.com/)
+
+> Beginner to Intermediate developers and designers who want to become comfortable with both JavaScript fundamentals and working in the DOM without a library.
+
+tags: `javascript`, `vanilla`, `html`, `projects`, `browser APIs`, `css`
+
+#### [Flexbox Froggy](https://flexboxfroggy.com/)
+
+> A game for learning CSS flexbox
+
+tags: `css`, `css3`, `flexbox`, `layout module`, `flexible`, `responsive`
+
+#### [Grid Garden](https://cssgridgarden.com/)
+
+> A game for learning CSS grid layout
+
+tags: `css`, `css3`, `layout module`, `grid-based`, `rows`, `columns`
+
 ## Udemy
 
 #### [React Front to Back](https://www.udemy.com/course/react-front-to-back/)
