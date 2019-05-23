@@ -25,6 +25,18 @@ tags: `any`, `html`, `javascript`, `bootstrap`, `react`, `redux`, `jquery`, `sas
 
 tags: `javascript`, `vanilla`, `html`, `projects`, `browser APIs`, `css`
 
+#### [Flexbox Froggy](https://flexboxfroggy.com/)
+
+> A game for learning CSS flexbox
+
+tags: `css`, `css3`, `flexbox`, `layout module`, `flexible`, `responsive`
+
+#### [Grid Garden](https://cssgridgarden.com/)
+
+> A game for learning CSS grid layout
+
+tags: `css`, `css3`, `layout module`, `grid-based`, `rows`, `columns`
+
 ## Udemy
 
 #### [React Front to Back](https://www.udemy.com/course/react-front-to-back/)
