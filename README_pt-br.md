@@ -23,6 +23,7 @@ tags: `javascript`, `design`, `Adobe XD`, `frontend`, `wordpress`, `jQuery`
 #### [CSS FLexbox](https://www.origamid.com/curso/css-flexbox/)
 
 **aulas:** 25
+**horas:** 3
 
 > Excelente curso sobre flexbox, ensina os fundamentos e como usar, além de construir um website do zero utilizando apenas flex no curso.
 

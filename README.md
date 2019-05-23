@@ -21,27 +21,32 @@ tags: `any`, `html`, `javascript`, `bootstrap`, `react`, `redux`, `jquery`, `sas
 
 #### [Javascript30](https://javascript30.com/)
 
+**classes:** 30
+
 > Beginner to Intermediate developers and designers who want to become comfortable with both JavaScript fundamentals and working in the DOM without a library.
 
-tags: `javascript`, `vanilla`, `html`, `projects`, `browser APIs`, `css`
+tags: `javascript`, `vanilla`, `html`, `projects`, `browser APIs`, `css`, `frontend`
 
 #### [Flexbox Froggy](https://flexboxfroggy.com/)
 
+**classes:** 24
+
 > A game for learning CSS flexbox
 
-tags: `css`, `css3`, `flexbox`, `layout module`, `flexible`, `responsive`
+tags: `css`, `css3`, `flexbox`, `layout module`, `flexible`, `responsive`, `frontend`
 
 #### [Grid Garden](https://cssgridgarden.com/)
 
 > A game for learning CSS grid layout
 
-tags: `css`, `css3`, `layout module`, `grid-based`, `rows`, `columns`
+tags: `css`, `css3`, `layout module`, `grid-based`, `rows`, `columns`, `frontend`
 
 ## Udemy
 
 #### [React Front to Back](https://www.udemy.com/course/react-front-to-back/)
 
 **classes:** 73
+**hours:** 11
 
 > It a quick course, with only 73 classes, that teaches you the basics of react and redux, and build some projects with authentication with Firebase and admin privileges
 
@@ -50,6 +55,7 @@ tags: `react`, `redux`, `frontend`
 #### [React Testing with Jest and Enzyme](https://www.udemy.com/react-testing-with-jest-and-enzyme/)
 
 **classes:** 100
+**hours:** 6
 
 > This is one of the best courses that I made, the instructor pass exercises every lesson so you can really apply what you learn. Brings good concepts of testing too. The projects can seem a little too easy at first but It's enough for you learn and apply the concepts on real world projects later.
 
@@ -58,6 +64,7 @@ tags: `react`, `testing with jest`, `frontend`, `tdd`
 #### [Build Web Apps with Vue JS 2 & Firebase](https://www.udemy.com/build-web-apps-with-vuejs-firebase/)
 
 **classes:** 118
+**hours:** 12
 
 > This is a quick course to help you with the basics of Vue. It does not teach you things like Vuex, that is a con, but help a lot if you are beggining to learn the Framework and want a quick beggining but not the ones with one class only. Has some cool projects, one of them with the Google Maps API
 
@@ -66,6 +73,7 @@ tags: `vue`, `vuejs`, `frontend`
 #### [Professional Rails Code Along](https://www.udemy.com/professional-ruby-on-rails-coding-course/)
 
 **classes:** 120
+**hours:** 19
 
 > This is a great course for who wants to learn rails and learn how to tdd on rails. This course has only a project, that is a real world project, with authentication and admin privileges.
 
