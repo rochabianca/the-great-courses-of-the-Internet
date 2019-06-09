@@ -31,7 +31,15 @@ tags: `css`, `flexbox`, `frontend`
 
 ## Udemy
 
-seja o primeiro a adicionar um curso aqui!
+#### [Desenvolvimento Web Completo 2019](https://www.udemy.com/web-completo/)
+
+**aulas:** 555 aulas
+**horas:** 107
+
+> Constantemente em valor promocional na plataforma (R$20,00). um curso bem completo onde são abordadas as principais tecnologias web, contendo projetos reais para ajudar no aprendizado.
+
+
+tags: `frontend`, `HTML5`,`CSS3`,`BootStrap4`,`JavaScript`, `ES6`, `PHP7`, `MySQL`, `AJAX,`, `jQuery`,`Wordpress`.
 
 ## Outros
 
