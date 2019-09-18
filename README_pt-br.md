@@ -29,6 +29,14 @@ tags: `javascript`, `design`, `Adobe XD`, `frontend`, `wordpress`, `jQuery`
 
 tags: `css`, `flexbox`, `frontend`
 
+#### [Criando sites estáticos com Jekyll](https://www.udemy.com/course/criando-sites-estaticos-com-jekyll/)
+**aulas:** 18
+**horas:** 2
+
+> Um ótimo curso sobre Jekyll, que ensina de forma rápida e prática a criar um blog usando essa ferramenta. O professor ensina muito bem.
+
+tags: `jekyll`, `sites estaticos`
+
 ## Udemy
 
 #### [Desenvolvimento Web Completo 2019](https://www.udemy.com/web-completo/)
