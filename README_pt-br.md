@@ -1,3 +1,5 @@
+[![Open Source Helpers](https://www.codetriage.com/rochabianca/the-great-courses-of-the-internet/badges/users.svg)](https://www.codetriage.com/rochabianca/the-great-courses-of-the-internet)
+
 # Os Grandes Cursos dessa Internet
 
 [manja de inglês? Aqui tem as indicações para cursos nessa lingua](https://github.com/rochabianca/the-great-courses-of-the-Internet/blob/master/README.md)
